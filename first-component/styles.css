@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 250px
+}
+
+.orange-box {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: orange
+}
+
+.green-box {
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  background-color: green
+}
+
+.blue-box {
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  background-color: blue
+}
+
+.yellow-box {
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  background-color: yellow
+}
